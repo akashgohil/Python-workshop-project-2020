@@ -1,1 +1,1 @@
-# Python-workshop-project-2020
+# JoPuP-2020-Assignments
